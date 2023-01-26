@@ -1,4 +1,4 @@
-# DEPRECATED
+# DEPRECATED - Kept here for critical legacy function in some applications
 
 # php-mysql-connector
 A simple to use mysql connector for quickly connecting your php project with a mysql database
