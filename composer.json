@@ -1,0 +1,19 @@
+{
+    "name": "rhlegacy/mysql-connector",
+    "description": "This library assists with easily communicating with a mysql database.",
+    "type": "library",
+    "license": "MIT",
+    "version": "0.0.1",
+    "authors": [
+        {
+            "name": "Ruan Huysen",
+            "email": "rhuysen@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "MySql\\": "MySql/"
+        }
+    }
+}
